@@ -1,0 +1,16 @@
+{
+  "name": "uraz-website-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for URAZ Pro Website",
+  "main": "index.js",
+  "dependencies": {
+    "twilio": "^4.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["netlify", "functions", "twilio", "sms"],
+  "author": "URAZ Pro",
+  "license": "MIT"
+}
